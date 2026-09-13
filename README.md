@@ -40,7 +40,7 @@ Dataset split:
   - Flip
   - Zoom
 
-## Training Setup
+## Training Setup 
 - Loss Function: Dice Loss
 - Optimizer: Adam
 - Evaluation Metrics:
